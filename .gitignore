@@ -1,0 +1,26 @@
+# Environment variables (your bot token)
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional cache directories
+.npm
+.cache/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
